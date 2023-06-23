@@ -19,7 +19,7 @@ Once you have your dataset, you need to prepare it. The data will be very messy 
 ### [Present insights](https://github.com/Kamalesh-02/British-Airways-Sentiment-Analysis-on-Reviews/blob/main/Task%20-%2001/Web%20Scraping%20%26%20Analysis%20Report.pptx)
 Your manager would like you to summarise your findings within a single PowerPoint slide, so that they can present the results at the next board meeting. You should create visualisations and metrics to include within this slide, as well as clear and concise explanations in order to quickly provide the key points from your analysis.
 
-## 1️⃣  Task 2 : Predicting customer buying behaviour <a name = "Task2"></a>
+## 2️⃣  Task 2 : Predicting customer buying behaviour <a name = "Task2"></a>
 ### [Data Preparation & Model Buliding](https://github.com/Kamalesh-02/British-Airways-Sentiment-Analysis-on-Reviews/blob/main/Task%20-%2002/Customer%20Booking%20Prediction.ipynb)
 First, spend some time exploring the dataset in the “Getting Started” Jupyter Notebook provided in the Resources section below to understand the different columns and some basic statistics of the dataset. Then, you should consider how to prepare the dataset for a predictive model.
 
