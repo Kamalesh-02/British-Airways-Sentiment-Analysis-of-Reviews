@@ -34,5 +34,5 @@ After training your model, you should evaluate how well it performed by conducti
 - [Jupyter Notebooks](https://jupyter.org/) - Open-source web application that allows data scientists to create and share documents that integrate live code, equations, computational output, visualizations, and other multimedia resources.
 - [Anaconda](https://www.anaconda.com/) - Local environment for practice
 - [GitHub](https://github.com/) - Repository for storing all files
-
-  #### © Copyright 2023 - [Kamalesh K B](https://github.com/Kamalesh-02)
+  
+#### © Copyright 2023 - [Kamalesh K B](https://github.com/Kamalesh-02)
